@@ -10,9 +10,12 @@ Meetup topics, planning, &amp; presentations
 | Unicode and character encodings     | TBD        | Matt      |    |
 | Hosting a website on GitHub pages   | TBD        | Matt      |    |
 | Pandas workshop                     | TBD        |           |    |
+| Intro to HTML                       | TBD        |           |    |
+| Intro to CSS                        | TBD        |           |    |
 | Intro to SQL-ALchemy for Flask (ORM)| TBD        | Aaron     |    |
 | Intro to SQL                        | TBD        | Aaron     |    |
 | Intro to Postgres 11                | TBD        | Aaron     | https://www.enterprisedb.com/downloads/postgres-postgresql-downloads    |
+| Intro to Flask                      | TBD        |           |    |
 | Intro to Django                     | TBD        |           |    |
 | API-Application programm.. inter..  | TBD        |           |    |
 | Intro to Travis FL                  | TBD        |           |    |
